@@ -2,7 +2,17 @@ apiVersion: v1
 entries:
   lighthouse:
   - apiVersion: v1
-    created: "2022-03-03T17:56:40.747718217+01:00"
+    created: "2022-03-03T18:49:48.968498701+01:00"
+    description: 'This chart bootstraps installation of [Lighthouse](https://github.com/jenkins-x/lighthouse). '
+    digest: f558032a4eff0b7e5da2fa648bbff8c36e85e67ec58dd61518e4d5b4f2cc2071
+    home: https://github.com/jenkins-x/lighthouse
+    icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-website/master/images/logo/jenkinsx-icon-color.svg
+    name: lighthouse
+    urls:
+    - lighthouse-0.8.0.tgz
+    version: 0.8.0
+  - apiVersion: v1
+    created: "2022-03-03T18:49:48.960077187+01:00"
     description: 'This chart bootstraps installation of [Lighthouse](https://github.com/jenkins-x/lighthouse). '
     digest: cf3bfd78c477ce6099bee416b8302328a7e3fc510238c0b650d9e9fd2d9cb38f
     home: https://github.com/jenkins-x/lighthouse
@@ -12,7 +22,7 @@ entries:
     - lighthouse-0.7.0.tgz
     version: 0.7.0
   - apiVersion: v1
-    created: "2022-03-03T17:56:40.740873216+01:00"
+    created: "2022-03-03T18:49:48.954838932+01:00"
     description: 'This chart bootstraps installation of [Lighthouse](https://github.com/jenkins-x/lighthouse). '
     digest: ed1f585ca2ede3d036ca9392d980e23ccc96c4747a4e53a52047140c316dbcfb
     home: https://github.com/jenkins-x/lighthouse
@@ -22,7 +32,7 @@ entries:
     - lighthouse-0.6.0.tgz
     version: 0.6.0
   - apiVersion: v1
-    created: "2022-03-03T17:56:40.736229434+01:00"
+    created: "2022-03-03T18:49:48.951642533+01:00"
     description: 'This chart bootstraps installation of [Lighthouse](https://github.com/jenkins-x/lighthouse). '
     digest: 9e7d712a9c0e9bd4b0bf348623a08a2f907384c583906d14862d97954559412f
     home: https://github.com/jenkins-x/lighthouse
@@ -32,7 +42,7 @@ entries:
     - lighthouse-0.5.0.tgz
     version: 0.5.0
   - apiVersion: v1
-    created: "2022-03-03T17:56:40.732719862+01:00"
+    created: "2022-03-03T18:49:48.949245764+01:00"
     description: 'This chart bootstraps installation of [Lighthouse](https://github.com/jenkins-x/lighthouse). '
     digest: 0b636fff41687a048947057faef00fcbefdf1a3972d9c7514f0667dc9e0171e1
     home: https://github.com/jenkins-x/lighthouse
@@ -42,7 +52,7 @@ entries:
     - lighthouse-0.4.0.tgz
     version: 0.4.0
   - apiVersion: v1
-    created: "2022-03-03T17:56:40.730117879+01:00"
+    created: "2022-03-03T18:49:48.94707642+01:00"
     description: 'This chart bootstraps installation of [Lighthouse](https://github.com/jenkins-x/lighthouse). '
     digest: 8a7b68874ddc56ae15bde466f01282eeaab1a0f014a32321fa84255f7fe00fb7
     home: https://github.com/jenkins-x/lighthouse
@@ -52,7 +62,7 @@ entries:
     - lighthouse-0.3.0.tgz
     version: 0.3.0
   - apiVersion: v1
-    created: "2022-03-03T17:56:40.727970076+01:00"
+    created: "2022-03-03T18:49:48.945650145+01:00"
     description: 'This chart bootstraps installation of [Lighthouse](https://github.com/jenkins-x/lighthouse). '
     digest: 790be799f7d30d01934b5e9bb89add6d82f164fbeaf85bed90ab96f0e6e36979
     home: https://github.com/jenkins-x/lighthouse
@@ -62,7 +72,7 @@ entries:
     - lighthouse-0.2.0.tgz
     version: 0.2.0
   - apiVersion: v1
-    created: "2022-03-03T17:56:40.725919506+01:00"
+    created: "2022-03-03T18:49:48.943916405+01:00"
     description: 'This chart bootstraps installation of [Lighthouse](https://github.com/jenkins-x/lighthouse). '
     digest: fee959d2121e6404b3aeefb26ad40fe52aa67987b34ed99db5eda256247d2a55
     home: https://github.com/jenkins-x/lighthouse
@@ -71,4 +81,4 @@ entries:
     urls:
     - lighthouse-0.1.0-SNAPSHOT.tgz
     version: 0.1.0-SNAPSHOT
-generated: "2022-03-03T17:56:40.680787863+01:00"
+generated: "2022-03-03T18:49:48.892012595+01:00"
